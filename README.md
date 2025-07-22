@@ -17,10 +17,7 @@ SIEM (e.g., Splunk) • Wireshark
 
 ## 📁 Projects
 
-🔹 [Log-Watcher](https://github.com/yourusername/log-watcher) — Python-based Windows Event Log monitoring and alerting tool  
-🔹 [BlueTeam-Lab-Setup](https://github.com/yourusername/blueteam-lab-setup) — Scripts to automate a local Blue Team lab  
-🔹 [IR-Playbook](https://github.com/yourusername/ir-playbook) — A digital incident response playbook with templates and procedures  
-🔹 [Detection-Rules](https://github.com/yourusername/detection-rules) — Sample YARA/Sigma rules for detecting threats  
+🔹 [Log-Watcher](https://github.com/yourusername/log-watcher) — Python-based Windows Event Log monitoring and alerting tool    
 🔹 [Learning-Notes](https://github.com/yourusername/learning-notes) — Study notes, tool summaries, and write-ups  
 
 ---
@@ -28,11 +25,10 @@ SIEM (e.g., Splunk) • Wireshark
 ## 🎓 Certifications
 
 - [CompTIA Security+](https://www.credly.com/badges/8b62a8d2-4937-4bbd-a99e-9796a814c26a/public_url)
-- Google Cybersecurity Professional Certificate
+- [Google Cybersecurity Professional Certificate](https://www.credly.com/badges/8ab36230-7bca-499c-87b1-ff2ca6983703/public_url)
 
 ---
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourprofile)  
-[Blog/Portfolio (if any)](https://yourdomain.dev) • [Twitter/X](https://twitter.com/yourhandle)
+[LinkedIn](https://linkedin.com/in/joshua-brassington)
