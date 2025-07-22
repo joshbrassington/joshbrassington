@@ -27,8 +27,8 @@ SIEM (e.g., Splunk) • Wireshark
 
 ## 🎓 Certifications
 
-- CompTIA Security+
-- [YourCert] (in progress)
+- [CompTIA Security+](https://www.credly.com/badges/8b62a8d2-4937-4bbd-a99e-9796a814c26a/public_url)
+- Google Cybersecurity Professional Certificate
 
 ---
 
