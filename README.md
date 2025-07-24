@@ -17,8 +17,13 @@ SIEM (e.g., Splunk) • Wireshark
 
 ## 📁 Projects
 
-🔹 [Log-Watcher](https://github.com/yourusername/log-watcher) — Python-based Windows Event Log monitoring and alerting tool    
-🔹 [Learning-Notes](https://github.com/yourusername/learning-notes) — Study notes, tool summaries, and write-ups  
+🔹 [Log-Watcher](https://github.com/yourusername/log-watcher) — Python-based Windows Event Log monitoring and alerting tool      
+
+---
+
+## 📁 Projects
+
+🔹 [Learning-Notes](https://github.com/yourusername/learning-notes) — Study notes, tool summaries, and write-ups
 
 ---
 
