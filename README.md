@@ -23,7 +23,9 @@ SIEM (e.g., Splunk) • Wireshark
 
 ## 📁 Learning & Exam Notes
 
-🔹 [Learning-Notes](https://github.com/yourusername/learning-notes) — Study notes, tool summaries, and write-ups
+🔹 [Learning Notes](https://github.com/yourusername/learning-notes) — Study notes, tool summaries, and write-ups
+
+🔹 [ISC2 Certified in Cybersecurity - Exam Notes](https://github.com/joshbrassington/cc-exam-notes/blob/main/README.md) - Notes and resources
 
 ---
 
