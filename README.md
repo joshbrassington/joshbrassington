@@ -5,20 +5,9 @@ Welcome to my GitHub! I'm an aspiring cybersecurity analyst focused on **Blue Te
 
 ---
 
-## 🧰 Skills & Tools
-
-**Languages & Scripting:**  
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) ![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=gnu-bash) ![PowerShell](https://img.shields.io/badge/-PowerShell-black?style=flat-square&logo=powershell)
-
-**Platforms & Tools:**  
-![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux) ![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows)  
-SIEM (e.g., Splunk) • Wireshark
-
----
-
 ## 📁 Projects
 
-🔹 [Log-Watcher](https://github.com/yourusername/log-watcher) — Python-based Windows Event Log monitoring and alerting tool      
+🔹 [Secure Access with Azure Directory](insert link here) — (describe here)      
 
 ---
 
