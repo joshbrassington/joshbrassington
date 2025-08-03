@@ -1,7 +1,7 @@
 # 👋 Joshua Brassington
 # Aspiring Blue Team Cybersecurity Analyst
 
-Welcome to my GitHub! I'm an aspiring cybersecurity analyst focused on **Blue Team operations**, incident response, threat detection, log analysis, and automation. I enjoy building tools and sharing knowledge to help defenders stay ahead.
+Welcome to my GitHub! I'm an aspiring cybersecurity analyst focused on **Blue Team operations**, incident response, threat detection, log analysis, and automation.
 
 ---
 
