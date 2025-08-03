@@ -7,7 +7,7 @@ Welcome to my GitHub! I'm an aspiring cybersecurity analyst focused on **Blue Te
 
 ## 📁 Projects
 
-🔹 [Secure Access with Azure Directory](insert link here) — (describe here)      
+🔹 [SOC Home Lab](insert link here) — (describe here)      
 
 ---
 
