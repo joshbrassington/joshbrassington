@@ -22,7 +22,7 @@ SIEM (e.g., Splunk) • Wireshark
 
 ---
 
-## 📁 Learning & Exam Notes
+## 📝 Learning & Exam Notes
 
 🔹 [Learning Notes](https://github.com/yourusername/learning-notes) — Study notes, tool summaries, and write-ups
 
