@@ -7,7 +7,7 @@ Welcome to my GitHub! I'm an aspiring cybersecurity analyst focused on **Blue Te
 
 ## 📁 Projects
 
-🔹 [SOC Home Lab](insert link here) — (describe here)      
+🔹 [SOC Home Lab](https://github.com/joshbrassington/soc-home-lab) — (describe here)      
 
 ---
 
